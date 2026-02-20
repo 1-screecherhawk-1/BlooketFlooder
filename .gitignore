@@ -3,7 +3,7 @@ node_modules
 bun.lock
 
 # data
-common/.cookie
+.env
 
 # mac cnf
 .DS_Store
